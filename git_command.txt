@@ -1,0 +1,13 @@
+ssh path: 
+C:\Users\IBM_ADMIN\.ssh
+hosts path:
+C:\Windows\System32\drivers\etc
+
+git config user.name
+
+git config user.email  
+
+
+git config --global user.name "username"
+
+git config --global user.email "email"
